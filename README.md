@@ -1,1 +1,2 @@
 # Franks-nosql-3001
+is a back-end application that provides a set of API routes for managing users, thoughts, reactions, and friend connections in a social network. It utilizes the Mongoose ODM (Object Data Modeling) library for interacting with a MongoDB database. With this API, users can create, read, update, and delete users and thoughts, as well as perform actions such as adding reactions to thoughts and managing friend connections.
